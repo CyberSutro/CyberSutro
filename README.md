@@ -35,7 +35,9 @@
 	   
 ### <picture> 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> 
-</picture> IDEs
+  
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+
 
 <p align="center">
   &emsp;
