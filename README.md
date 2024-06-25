@@ -1,7 +1,8 @@
-<h1 align="center">Hi , I'm LUIS SALINAS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm LUIS SALINAS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![github](https://github.com/CyberSutro/CyberSutro/assets/170475784/46e3cfde-bb0d-493e-bea0-7a68f0b20785)jpg
-
+<p align="center">
+  <img src="https://github.com/CyberSutro/CyberSutro/assets/170475784/46e3cfde-bb0d-493e-bea0-7a68f0b20785" alt="github">
+</p>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
