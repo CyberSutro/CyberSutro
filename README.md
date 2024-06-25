@@ -55,10 +55,10 @@
   &emsp;
 
 </p>
-
 	
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/CyberSutro?tab=overview&from=2024-06-01&to=2024-06-25" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://github.com/CyberSutro/CyberSutro/blob/output/github-contribution-grid-snake.gif" alt="Snake Game"/>
 </p>
+
