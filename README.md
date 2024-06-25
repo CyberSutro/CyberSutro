@@ -16,6 +16,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:salinas.licaf@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+        <a href="https://instagram.com/adan_salinasss"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
@@ -56,9 +57,5 @@
 
 </p>
 	
-## 🐍 A Snake Eating my Contributions Graph
 
-<p align="center">
-  <img src="https://github.com/CyberSutro/CyberSutro/blob/output/github-contribution-grid-snake.gif" alt="Snake Game"/>
-</p>
 
