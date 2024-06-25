@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a cybersecurity engineering student.
+- :school: I am a cybersecurity engineering student at the "Universidad de las Americas, Chile.
 - :student: I’m currently learning `Ethical Hacker` and `Programming `.
 - :nerd_face: Always `learning new things`.
 <br>
