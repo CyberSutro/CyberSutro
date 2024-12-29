@@ -65,7 +65,7 @@
   &emsp;
 
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e29312d6-6483-4c6c-a361-ddb41080b035" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 	
 
 
