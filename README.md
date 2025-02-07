@@ -68,7 +68,7 @@
     <tr>
       <td width="25%" align="center">
         <a href="https://escuelafutboluclosandes.cl/" title="Go to Source">
-          <img src="https://escuelafutboluclosandes.cl/tu-imagen.jpg" alt="VIDEO" width="100%"> 
+          <img src="tu-imagen.jpg" alt="VIDEO" width="100%"> 
         </a>
       </td>
     </tr>
