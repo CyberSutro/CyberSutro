@@ -62,7 +62,7 @@
   &emsp;
 
 <div id="proyectos">
-  <h2>Algunos proyectos👨🏻‍💻</h2>
+  <h2>Algunos proyectos: https://escuelafutboluclosandes.cl/👨🏻‍💻</h2>
 
   <table align="left">
     <tr>
