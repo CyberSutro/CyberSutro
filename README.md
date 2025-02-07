@@ -61,21 +61,20 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
 
-</p>
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left">
-  <tr border="none">
-    <td width="25%" align="center">
-      <p align="center">
-        <a href="https://escuelafutboluclosandes.cl/" title="Go to Source">
-          <img align="center" width=100% src="https://escuelafutboluclosandes.cl/tu-imagen.jpg" alt="VIDEO" /> 
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div id="proyectos"> 
+    <h2>Algunos proyectos👨🏻‍💻</h2>
+    <table align="left">
+        <tr border="none">
+            <td width="25%" align="center">
+                <p align="center">
+                    <a href="https://escuelafutboluclosandes.cl/" title="Go to Source">
+                        <img align="center" width=100% src="https://escuelafutboluclosandes.cl/tu-imagen.jpg" alt="VIDEO" />
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 
 
