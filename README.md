@@ -37,7 +37,7 @@
   &emsp; 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,java,py,mysql,r,wordpress" />
+    <img src="https://skillicons.dev/icons?i=discord,github,java,py,mysql,r,pug,wordpress" />
   </a>
 </p>
 	   
