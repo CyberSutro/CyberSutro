@@ -91,9 +91,10 @@
 <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png" alt="Email"></a>
 <a href="https://discordapp.com/users/adan8938" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
-  
 </p>
 
-	
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
