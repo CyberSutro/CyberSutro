@@ -4,7 +4,9 @@
   <img src="https://github.com/CyberSutro/CyberSutro/assets/170475784/46e3cfde-bb0d-493e-bea0-7a68f0b20785" alt="github">
 </p>
 
-	
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
