@@ -27,7 +27,7 @@
       <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png" alt="Email"></a>
   </div>
 </p>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/salinas.licaf.png" alt="Your Image Badge" />
 
 ## 🛠️ My Skills
 
